@@ -90,7 +90,3 @@ Ikuti langkah-langkah berikut untuk menginstal iBux di lokal Anda:
 
 ## Issue
 Jika Anda menemui masalah atau membutuhkan bantuan lebih lanjut, silakan buka issue di GitHub atau hubungi saya.
-
-## Authors
-
-- [@irsyamokta](https://github.com/irsyamokta)
